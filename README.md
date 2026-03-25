@@ -37,7 +37,7 @@ lensing images into three categories:
 ### ROC Curves
 | Classical Baseline | QML Model | QML Model (16 QUBITS)
 |---|---|---|
-| ![ROC Classical](results/roc_classical_rf.png) | ![ROC QML](results/roc_qml.png) | ![ROC QML(16)](results/roc_qml16qu.png) |
+| ![ROC Classical](Results/roc_classical_rf.png) | ![ROC QML](Results/roc_qml.png) | ![ROC QML(16)](Results/roc_qml16qu.png) |
 
 ---
 
